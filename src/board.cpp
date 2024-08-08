@@ -1,6 +1,6 @@
 #include <../include/board.hpp>
 
-void print_board()
+void print_board(void)
 {
     for (int i = 0; i < BOARD_SIZE; i++)
     {
